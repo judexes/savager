@@ -78,11 +78,6 @@
                                 <a class="btn btn-primary btn-lg text-uppercase" href="#" role="button">Claim reward</a>
                             </div>
                         </div>
-                        <div class="col-sm-6">
-                            <!-- <div class="hero-img">
-                                <img src="img/reward-hero1.jpg" alt="" class="img-fluid">
-                            </div> -->
-                        </div>
                     </div>
                 </div>
             </div>
