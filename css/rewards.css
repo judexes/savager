@@ -116,6 +116,9 @@ p {
 .navbar-section .navbar img {
     width: 40%;
 }
+.navbar-section .navbar-light .navbar-toggler {
+    border-radius: 50px;
+}
 
 /* HERO SECTION STYLE */
 .hero-section {
