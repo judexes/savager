@@ -120,7 +120,7 @@ p {
 /* HERO SECTION STYLE */
 .hero-section {
     background-image: url(../img/reward-hero2.jpg);
-    height: 100%;
+    height: 100vh;
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -132,7 +132,7 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    min-height: inherit;
+    min-height: 100vh;
     margin-top:56px
 }
 /* On screens that are 990px wide or less*/
@@ -146,6 +146,9 @@ p {
 }
 .hero-section sup {
   vertical-align: text-bottom;
+}
+.hero-section .hero-description {
+  margin: 7rem 1rem!important;
 }
 
 
